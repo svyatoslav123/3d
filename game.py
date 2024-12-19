@@ -1,4 +1,4 @@
- from direct.showbase.ShowBase import ShowBase
+from direct.showbase.ShowBase import ShowBase
 from mapmanager import Mapmanager
 
 
